@@ -1,0 +1,15 @@
+living:-true.
+not_living:-true.
+vehicle:-true.
+animal:-true.
+airplane:-vehicle,not_living.
+automobile:-vehicle,not_living.
+bird:-animal,living.
+cat:-animal,living.
+deer:-animal,living.
+dog:-animal,living.
+frog:-animal,living.
+horse:-animal,living.
+ship:-vehicle,not_living.
+truck:-vehicle,not_living.
+
